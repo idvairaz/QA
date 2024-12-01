@@ -1,0 +1,10 @@
+depart,arrival
+London,Denver
+Paris,Denver
+London,Paris
+Denver,Paris
+Portland,Denver
+London,Portland
+Paris,London
+Paris,Portland
+Denver,Portland
